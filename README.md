@@ -1,4 +1,4 @@
-# rich
+# Simple UI
 
 A new Flutter application.
 
